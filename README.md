@@ -18,3 +18,4 @@ Each folder in this repository corresponds to a specific machine learning projec
 * **KNN-Decision-Tree**: A project showcasing the implementation of K-Nearest Neighbors and Decision Tree models.
 * **Linear-Logistic-Regression**: A project focused on the foundational Linear and Logistic Regression algorithms.
 * **MLP-CNN**: A more advanced project implementing a Multilayer Perceptron (MLP) and a Convolutional Neural Network (CNN).
+* **INSERT LAST PROJECT HERE**
