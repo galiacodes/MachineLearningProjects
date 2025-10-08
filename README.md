@@ -8,9 +8,8 @@ This repository contains a collection of machine learning projects completed as 
 ### Folder Structure
 Each folder in this repository corresponds to a specific machine learning project. The typical structure for a project folder is as follows:
 
-* **`model_name.py`**: The Python script containing the core implementation of the machine learning model.
 * **`code.ipynb`**: A Jupyter Notebook detailing the process of applying the model to a dataset, analyzing its performance, and fine-tuning hyperparameters.
-* **`README.md`**: A brief README specific to that model, explaining its purpose and any specific usage notes.
+* **`report.txt`**: Detailed academic report.
 
 ---
 
